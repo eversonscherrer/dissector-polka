@@ -1,10 +1,10 @@
 # PolKA Wireshark Dissector
 DIssector for wireshark with lua to the Polinomial Key Protocol (PolKA)
 
-## Linux Instalation
+## Linux Installation
 
 Help > About > Folders
 
-## Mac Instalation
+## Mac Installation
 
 About > Folders
