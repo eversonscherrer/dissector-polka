@@ -10,6 +10,8 @@ How to Install PolKA Dissector in Wireshark
 
 2 - Then put the polka dissector in the lua plugins folder
 
+![Screen Shot 2022-01-19 at 14 00 36](https://user-images.githubusercontent.com/56919528/150178502-39229eab-4acb-42b1-a6e8-fba60580eb0e.png)
+
 3 - Next step go to the preferences panel and add the polka dissector in DLT USER
 
 ![Screen Shot 2022-01-19 at 13 40 12](https://user-images.githubusercontent.com/56919528/150175895-0993b5e7-613a-4f5c-853d-ebe012619d16.png)
