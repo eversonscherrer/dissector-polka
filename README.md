@@ -25,3 +25,16 @@ How to Install PolKA Dissector in Wireshark
 5 - Open the pcap file, ready now just explore and enjoy
 
  ![Screen Shot 2022-01-19 at 13 51 33](https://user-images.githubusercontent.com/56919528/150177287-92604673-1d50-4de7-a730-b6cd517d95ee.png)
+
+# Conclusion
+In this code you:
+
+This code makes it easier to view the polka package through wireshark.
+
+# References
+https://ieeexplore.ieee.org/document/9165501
+
+https://chalk-thought-7ce.notion.site/PolKA-Project-7452bbe9bd294a9b88791ba9650a7069
+
+https://osqa-ask.wireshark.org/
+
