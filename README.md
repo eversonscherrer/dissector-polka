@@ -5,8 +5,15 @@ DIssector for wireshark with lua to the Polinomial Key Protocol (PolKA)
 
 Help > About > Folders
 
+### Create and enter the LUA plugin folder
 ```bash
 mkdir /home/$USER/.local/lib/wireshark/
+cd /home/$USER/.local/lib/wireshark/
+```
+
+### Download the PolKA Wireshark Dissector 
+```bash
+wget 
 ```
 
 ## Mac Installation
