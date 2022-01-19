@@ -29,7 +29,7 @@ How to Install PolKA Dissector in Wireshark
 # Conclusion
 In this code you:
 
-This code makes it easier to view the polka package through wireshark.
+The code makes it easier to view the polka package through wireshark.
 
 # References
 https://ieeexplore.ieee.org/document/9165501
