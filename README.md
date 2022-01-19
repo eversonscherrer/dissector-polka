@@ -5,6 +5,10 @@ DIssector for wireshark with lua to the Polinomial Key Protocol (PolKA)
 
 Help > About > Folders
 
+```bash
+mkdir /home/$USER/.local/lib/wireshark/
+```
+
 ## Mac Installation
 
 About > Folders
