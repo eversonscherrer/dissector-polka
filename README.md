@@ -2,7 +2,7 @@
 DIssector for wireshark with lua to the Polinomial Key Protocol (PolKA)
 
 
-How to Install PolKA Dissector in Wireshark
+## How to Install PolKA Dissector in Wireshark on Mac OS
 
 1 - Go to the about menu and then folders
 
