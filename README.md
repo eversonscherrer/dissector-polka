@@ -28,7 +28,7 @@ DIssector for wireshark with lua to the Polinomial Key Protocol (PolKA)
 ## How to Install PolKA Wireshark Dissector on Linux
 
 ### Create the LUA Plugin folder on Wireshark
-Help > About > Folders
+`Help` > `About` > `Folders` > Click on `Lua Plugins`
 
 ### Or create manualy the LUA Plugin folder
 ```zsh
@@ -45,6 +45,7 @@ wget https://raw.githubusercontent.com/eversonscherrer/dissector-polka/main/polk
 `Analyze > Reload LUA Plugins` or `Ctrl + Shift + L`
 
 ### Next step go to the preferences panel and add the polka dissector in DLT USER (as shown on Mac OS)
+
 
 # Conclusion
 In this code you:
