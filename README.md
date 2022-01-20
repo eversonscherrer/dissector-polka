@@ -30,19 +30,21 @@ DIssector for wireshark with lua to the Polinomial Key Protocol (PolKA)
 ### Create the LUA Plugin folder on Wireshark
 Help > About > Folders
 
-### Create manualy the LUA Plugin folder
+### Or create manualy the LUA Plugin folder
 ```zsh
 mkdir /home/$USER/.local/lib/wireshark/
-cd /home/$USER/.local/lib/wireshark/
 ```
 
 ### Download the PolKA Wireshark Dissector 
 ```zsh
+cd /home/$USER/.local/lib/wireshark/
 wget https://raw.githubusercontent.com/eversonscherrer/dissector-polka/main/polka_dissector.lua
 ```
 
 ### Reload LUA Plugins
-`Analyze > Reload LUA Plugins` or `Ctrl + Shift + L` 
+`Analyze > Reload LUA Plugins` or `Ctrl + Shift + L`
+
+### Next step go to the preferences panel and add the polka dissector in DLT USER (as shown on Mac OS)
 
 # Conclusion
 In this code you:
