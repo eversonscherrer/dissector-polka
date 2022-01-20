@@ -1,5 +1,5 @@
 # PolKA Wireshark Dissector
-Dissector for wireshark with lua to the Polinomial Key Protocol (PolKA)
+Dissector for wireshark with Lua programming language to the Polinomial Key-based Architecture for Source Routing (PolKA)
 
 ## How to Install PolKA Wireshark Dissector on Mac OS
 
