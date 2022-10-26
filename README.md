@@ -45,7 +45,7 @@ wget https://raw.githubusercontent.com/eversonscherrer/dissector-polka/main/polk
 # Conclusion
 In this code you:
 
-The code makes it easier to view the polka package through wireshark.
+The code makes it easier to view the polka package and informations through wireshark.
 
 # References
 https://ieeexplore.ieee.org/document/9165501
